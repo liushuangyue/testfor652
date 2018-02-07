@@ -853,4 +853,5 @@
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_D0-VUgvaEeivubcRE2PGpA" login="administrator@company.com" firstName="administrator" lastName="administrator" type="MDM" additionnalData="{}"/>
   <TalendProperties:User xmi:id="_EG5y0AvaEeivubcRE2PGpA" login="aa@talend.com" firstName="aa" lastName="aa" type="MDM" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_aPZZUQvtEei7rOTjjUW_7w" login="bb@talend.com" firstName="bb" lastName="bb" type="MDM" additionnalData="{}"/>
 </xmi:XMI>
